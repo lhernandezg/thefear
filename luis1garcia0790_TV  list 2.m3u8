@@ -1,0 +1,185 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logo-tv-azteca-png.jpg/200px-Logo-tv-azteca-png.jpg" group-title="NACIONALES", Azteca 1
+http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+#EXTINF:0,FOROTV |HD
+#EXTGRP:Noticias
+https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8
+#EXTINF:0,Milenio TV -Noticias
+#EXTGRP:NACIONALES
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0,Multimedios Monterrey
+#EXTGRP:NACIONALES
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:0,TELE13
+#EXTGRP:NACIONALES
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
+#EXTINF:0,DW
+#EXTGRP:NACIONALES
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", Azteca 7
+http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+#EXTINF:0,Ingenio TV
+#EXTGRP:NACIONALES
+https://srvstream01.televisioneducativa.gob.mx/hls/ingeniotv.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", Grupo Formula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", , MTV
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w88942915_b1300000_slesp.m3u8
+#EXTINF:0,HBO 2 Dualaudio
+#EXTGRP:NACIONALES
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png"group-title="ESPAÑA",",Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:0,WOW TV
+#EXTGRP:NACIONALES
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/multivision.png" group-title="NACIONALES", Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+#EXTINF:0,RTQ
+#EXTGRP:NACIONALES
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:0,Telenord Canal 12
+#EXTGRP:NACIONALES
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:-1, Discovery Channel HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1, Discovery SCI HD
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:0,Animal Planel English
+#EXTGRP:NACIONALES
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:0,Investigation Discovery  HD English
+#EXTGRP:NACIONALES
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:0,TLC HD English
+#EXTGRP:NACIONALES
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1, Telemusica
+#EXTINF:0,TRAVEL CHANNEL HD English
+#EXTGRP:NACIONALES
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:0,TV TLV English
+#EXTGRP:NACIONALES
+http://80.80.160.168/live/4/live.m3u8
+http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
+#EXTINF:0,Mango TV RD
+#EXTGRP:NACIONALES
+http://mangotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:0,Hit TV Music
+#EXTGRP:NACIONALES
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+#EXTINF:0,M2O TV | SD
+#EXTGRP:NACIONALES
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:0,Music choice
+#EXTGRP:NACIONALES
+http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/.m3u8
+#EXTINF:0,Lasuper TV
+#EXTGRP:NACIONALES
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+#EXTINF:0,Radio 105 Network | HD
+#EXTGRP:NACIONALES
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:0,Top Latino
+#EXTGRP:NACIONALES
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF:0,Top Latino 2
+#EXTGRP:NACIONALES
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/.m3u8
+#EXTINF:0,CBS News -Noticias ENGLISH
+#EXTGRP:NACIONALES
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:0,1.FM - Absolute Country Him3u8 Radio
+#EXTGRP:NACIONALES
+http://sc3b-sjc.1.fm:7802/;
+#EXTINF:0,1.FM - Absolute TOP 40 Radio
+#EXTGRP:NACIONALES
+http://sc3b-sjc.1.fm:7016/;
+#EXTINF:0,1.FM - Absolute Trance
+#EXTGRP:NACIONALES
+http://sc-trance.1.fm:8040/;
+#EXTINF:0,1.FM - All Otto Classical Music
+#EXTGRP:NACIONALES
+http://sc1c-sjc.1.fm:7070/;
+#EXTINF:0,1.FM - Chillout Lounge Radio
+#EXTGRP:NACIONALES
+http://sc1c-sjc.1.fm:7008/;
+#EXTINF:0,1.FM Adore Jazz
+#EXTGRP:NACIONALES
+http://sc-ajazz.1.fm:5084
+#EXTINF:0,1.FM Adult Urban Him3u8 Choice
+#EXTGRP:NACIONALES
+http://sc-ua.1.fm:7086
+#EXTINF:0,1.FM Afterbeat Electronica
+#EXTGRP:NACIONALES
+http://sc-electronica.1.fm:8252
+#EXTINF:0,1.FM All Euro 80's
+#EXTGRP:NACIONALES
+http://sc-80s.1.fm:7032
+#EXTINF:0,1.FM All Times & Urban Gospel
+#EXTGRP:NACIONALES
+http://sc-gospel.1.fm:7090
+#EXTINF:0,1.FM Alternative Rock X Him3u8
+#EXTGRP:NACIONALES
+http://sc-xrock.1.fm:7026
+#EXTINF:0,1.FM America's Best Ballads
+#EXTGRP:NACIONALES
+http://sc-abb.1.fm:8682
+#EXTINF:0,1.FM Back To The 50's & 60's
+#EXTGRP:NACIONALES
+http://sc-60s.1.fm:7028
+#EXTINF:0,1.FM Back To The 80's (US)
+#EXTGRP:NACIONALES
+http://sc-b280s.1.fm:6950
+#EXTINF:0,1.FM Bay Smooth Jazz
+#EXTGRP:NACIONALES
+http://sc-sjazz.1.fm:7082
+#EXTINF:0,1.FM Blues Radio
+#EXTGRP:NACIONALES
+http://sc-blues.1.fm:7040
+#EXTINF:0,1.FM Bombay Beam3u8 India
+#EXTGRP:NACIONALES
+http://sc-bb.1.fm:7044
+#EXTINF:0,1.FM Circuit Pride
+#EXTGRP:NACIONALES
+http://sc-tgway.1.fm:5094
+#EXTINF:0,1.FM Classic Country
+#EXTGRP:NACIONALES
+http://sc-ccountry.1.fm:7808
+#EXTINF:0,1.FM Classic Rock Replay
+#EXTGRP:NACIONALES
+http://sc-classrock.1.fm:8206
+#EXTINF:0,1.FM Club 1
+#EXTGRP:NACIONALES
+http://sc-club.1.fm:7004
+#EXTINF:0,1.FM Country One
+#EXTGRP:NACIONALES
+http://sc-countryone.1.fm:7048
+#EXTINF:0,1.FM Dance One
+#EXTGRP:NACIONALES
+http://sc-dance.1.fm:3895
+#EXTINF:0,1.FM Destination: SPA
+#EXTGRP:NACIONALES
+http://sc-spa.1.fm:6002
+#EXTINF:0,1.FM Disco Ball 70's-80's
+#EXTGRP:NACIONALES
+http://sc-disco.1.fm:7020
+#EXTINF:0,1.FM Eternal Praise & Worship
+#EXTGRP:NACIONALES
+http://sc-praise.1.fm:8092
+#EXTINF:0,1.FM Fashion TV
+#EXTGRP:NACIONALES
+http://sc-ftv.1.fm:5074
+#EXTINF:0,1.FM High Voltage
+#EXTGRP:NACIONALES
+http://sc-hv.1.fm:7058
+#EXTINF:0,1.FM Jamz
+#EXTGRP:NACIONALES
+http://sc-jamz.1.fm:7062
+#EXTINF:0,1.FM Otto's Baroque Music
+#EXTGRP:NACIONALES
+http://sc-baroque.1.fm:7066
